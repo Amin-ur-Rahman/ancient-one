@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.DS_Storenode_modules/
+
+package-lock.json
+package.json
+.gitignore
