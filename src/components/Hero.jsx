@@ -7,7 +7,7 @@ const Hero = () => {
         {/* left side */}
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
-            Welcome to <span className="text-primary">TechHub</span>
+            Welcome to the <span className="text-primary">TechHub</span>
           </h1>
           
           <p className="text-lg md:text-xl text-text-muted">
