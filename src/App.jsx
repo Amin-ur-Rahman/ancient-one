@@ -16,6 +16,7 @@ const App = () => {
       <Hero></Hero>
       <Features></Features>
       <Events></Events>
+      {/* Shaqibul Islam */}
       <MeetOurTeam></MeetOurTeam>
       <Stats></Stats>
       <About></About>
@@ -26,4 +27,3 @@ const App = () => {
 };
 
 export default App;
-
