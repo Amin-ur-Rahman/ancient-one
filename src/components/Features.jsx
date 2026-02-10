@@ -3,7 +3,6 @@ import React from "react";
 function Features() {
   return (
     <div>
-      //problem //problem--2 //last commnet
       <style>{`
         .grid-background {
           background-size: 20px 20px;
@@ -17,7 +16,7 @@ function Features() {
       <div className="bg-[#121212] text-slate-100 font-sans transition-colors duration-300">
         <div className="min-h-screen p-4 md:p-8 lg:p-12 max-w-7xl mx-auto">
           <div className="inline-block bg-[#F05032] text-white text-[10px] uppercase tracking-widest px-2 py-1 mb-0 font-semibold">
-            Jasper Grid Overview
+            Features Overview
           </div>
 
           <div className="border border-[#F05032] relative">
